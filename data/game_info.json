@@ -1,0 +1,361 @@
+{
+    "username": "",
+    "levels": [
+        {
+            "id": "1",
+            "score": 0,
+            "params": {
+                "shuttle": {
+                    "start_pos": [
+                        325,
+                        586
+                    ]
+                },
+                "planet": [],
+                "star": [
+                    {
+                        "start_pos": [
+                            150,
+                            60
+                        ],
+                        "angle": 0,
+                        "direction": "cw",
+                        "ang_acc": 10,
+                        "rotate": 1
+                    },
+                    {
+                        "start_pos": [
+                            600,
+                            300
+                        ],
+                        "angle": 0,
+                        "direction": "ccw",
+                        "ang_acc": 20,
+                        "rotate": 1
+                    },
+                    {
+                        "start_pos": [
+                            60,
+                            600
+                        ],
+                        "angle": 0,
+                        "direction": "cw",
+                        "ang_acc": 10,
+                        "rotate": 1
+                    }
+                ],
+                "wormhole": []
+            }
+        },
+        {
+            "id": "2",
+            "score": 0,
+            "params": {
+                "shuttle": {
+                    "start_pos": [
+                        325,
+                        586
+                    ]
+                },
+                "planet": [
+                    {
+                        "start_pos": [
+                            500,
+                            500
+                        ],
+                        "angle": 180,
+                        "blackhole": 0
+                    },
+                    {
+                        "start_pos": [
+                            170,
+                            370
+                        ],
+                        "angle": 75,
+                        "blackhole": 0
+                    },
+                    {
+                        "start_pos": [
+                            350,
+                            150
+                        ],
+                        "angle": 75,
+                        "blackhole": 0
+                    }
+                ],
+                "star": [
+                    {
+                        "start_pos": [
+                            550,
+                            60
+                        ],
+                        "angle": 0,
+                        "direction": "cw",
+                        "ang_acc": 10,
+                        "rotate": 1
+                    },
+                    {
+                        "start_pos": [
+                            500,
+                            600
+                        ],
+                        "angle": 0,
+                        "direction": "ccw",
+                        "ang_acc": 20,
+                        "rotate": 1
+                    },
+                    {
+                        "start_pos": [
+                            150,
+                            300
+                        ],
+                        "angle": 0,
+                        "direction": "cw",
+                        "ang_acc": 10,
+                        "rotate": 1
+                    }
+                ],
+                "wormhole": []
+            }
+        },
+        {
+            "id": "3",
+            "score": 0,
+            "params": {
+                "shuttle": {
+                    "start_pos": [
+                        325,
+                        586
+                    ]
+                },
+                "planet": [
+                    {
+                        "start_pos": [
+                            200,
+                            500
+                        ],
+                        "angle": 180,
+                        "blackhole": 0
+                    },
+                    {
+                        "start_pos": [
+                            570,
+                            70
+                        ],
+                        "angle": 75,
+                        "blackhole": 1
+                    }
+                ],
+                "star": [
+                    {
+                        "start_pos": [
+                            150,
+                            60
+                        ],
+                        "angle": 0,
+                        "direction": "cw",
+                        "ang_acc": 30,
+                        "rotate": 1
+                    },
+                    {
+                        "start_pos": [
+                            500,
+                            600
+                        ],
+                        "angle": 0,
+                        "direction": "ccw",
+                        "ang_acc": 20,
+                        "rotate": 1
+                    },
+                    {
+                        "start_pos": [
+                            60,
+                            300
+                        ],
+                        "angle": 0,
+                        "direction": "cw",
+                        "ang_acc": 10,
+                        "rotate": 1
+                    }
+                ],
+                "wormhole": [
+                    {
+                        "start_pos": [
+                            100,
+                            586
+                        ],
+                        "angle": 0,
+                        "color": "red"
+                    },
+                    {
+                        "start_pos": [
+                            300,
+                            300
+                        ],
+                        "angle": 0,
+                        "color": "blue"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "4",
+            "score": 0,
+            "params": {
+                "shuttle": {
+                    "start_pos": [
+                        525,
+                        586
+                    ]
+                },
+                "planet": [
+                    {
+                        "start_pos": [
+                            500,
+                            250
+                        ],
+                        "angle": 180,
+                        "blackhole": 0
+                    },
+                    {
+                        "start_pos": [
+                            200,
+                            500
+                        ],
+                        "angle": 180,
+                        "blackhole": 0
+                    },
+                    {
+                        "start_pos": [
+                            350,
+                            70
+                        ],
+                        "angle": 75,
+                        "blackhole": 1
+                    }
+                ],
+                "star": [
+                    {
+                        "start_pos": [
+                            170,
+                            80
+                        ],
+                        "angle": 0,
+                        "direction": "cw",
+                        "ang_acc": 10,
+                        "rotate": 1
+                    },
+                    {
+                        "start_pos": [
+                            580,
+                            300
+                        ],
+                        "angle": 0,
+                        "direction": "ccw",
+                        "ang_acc": 20,
+                        "rotate": 1
+                    },
+                    {
+                        "start_pos": [
+                            60,
+                            200
+                        ],
+                        "angle": 0,
+                        "direction": "cw",
+                        "ang_acc": 10,
+                        "rotate": 1
+                    }
+                ],
+                "wormhole": [
+                    {
+                        "start_pos": [
+                            400,
+                            586
+                        ],
+                        "angle": 0,
+                        "color": "red"
+                    },
+                    {
+                        "start_pos": [
+                            100,
+                            300
+                        ],
+                        "angle": 0,
+                        "color": "blue"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "5",
+            "score": 0,
+            "params": {
+                "shuttle": {
+                    "start_pos": [
+                        525,
+                        586
+                    ]
+                },
+                "planet": [
+                    {
+                        "start_pos": [
+                            500,
+                            250
+                        ],
+                        "angle": 180,
+                        "blackhole": 0
+                    },
+                    {
+                        "start_pos": [
+                            150,
+                            500
+                        ],
+                        "angle": 180,
+                        "blackhole": 0
+                    },
+                    {
+                        "start_pos": [
+                            350,
+                            270
+                        ],
+                        "angle": 75,
+                        "blackhole": 1
+                    }
+                ],
+                "star": [
+                    {
+                        "start_pos": [
+                            170,
+                            80
+                        ],
+                        "angle": 0,
+                        "direction": "cw",
+                        "ang_acc": 10,
+                        "rotate": 1
+                    },
+                    {
+                        "start_pos": [
+                            580,
+                            300
+                        ],
+                        "angle": 0,
+                        "direction": "ccw",
+                        "ang_acc": 20,
+                        "rotate": 1
+                    },
+                    {
+                        "start_pos": [
+                            60,
+                            200
+                        ],
+                        "angle": 0,
+                        "direction": "cw",
+                        "ang_acc": 10,
+                        "rotate": 1
+                    }
+                ],
+                "wormhole": []
+            }
+        }
+    ]
+}

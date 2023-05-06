@@ -1,0 +1,6 @@
+You are in a space pod (a small spaceship) and must maneuver it to collect stars before the fuel runs out. However, planets and black holes will try to drag your pod towards them, and you must control it in such a way that you avoid colliding with them. There are also wormholes that transfer you from one wormhole to the next. 
+
+It's a survival game in which you must collect all of the stars in order to complete the level before the fuel runs out.
+It's a logical game because there's no friction in space, therefore you have to account for all velocities. If the pod is not properly controlled, it will keep moving.
+It's a good educational game because it provides you with a basic understanding of space physics.
+Because you will be maneuvering the space pod, it is a vehicle simulation game.
